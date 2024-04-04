@@ -1,2 +1,5 @@
 # MatDickieGames-RepacksByRiritoNinigaya
-MatDickieGames-RepacksByRiritoNinigaya(My First Repacks for Mat Dickie's Games and Fixed FPS bug using dgVoodoo2) 
+
+**ALL OF THIS SOURCE CODES IS UNDER MIT LICENSE!!!**
+
+Hello, This is My First Repacks for MDickie Games.... Used Inno Setup!!! So Enjoy to use my source codes or installing my repacks!!!
